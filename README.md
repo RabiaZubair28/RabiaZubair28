@@ -1,6 +1,3 @@
-# myProfile
-This repository contain all my profile.
-
 # 💫 About Me:
 I am an inquisitive and passionate learner 💡 <br>
 Currently, I am working on full-stack development 💻<br>
